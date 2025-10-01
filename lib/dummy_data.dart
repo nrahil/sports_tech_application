@@ -35,8 +35,8 @@ const String sampleJson = '''
   {
     "name": "Endurance",
     "level": "Advanced",
-    "image": "https://getrawnutrition.com/cdn/shop/articles/Untitled-2_09586eb0-5b20-4c76-bb72-4929a875cb7a.png?v=1753723605&width=2048" 
-    },
+    "image": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=600"
+  },
   {
     "name": "Triple Jump",
     "level": "Advanced",
