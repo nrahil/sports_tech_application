@@ -26,9 +26,5 @@ Unsplash (free images)
 
 📷 Screenshots
 <p align="center"> <img src="assets/sports-tech.jpg" width="300" /> </p>
-🎞️ Demo Preview
 
-Inline GIF preview of the UI:
-
-<p align="center"> <img src="assets/tutorial(1).gif" width="300" /> </p>
 
