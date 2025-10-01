@@ -21,25 +21,22 @@ class SkillsScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Row(
-          children:  [
-            Icon(Icons.sports_soccer, color: Colors.white),
-            SizedBox(width: 8),
-            Text("Sports Skills", style: TextStyle(color: Colors.white)),
-          ],
-        ),
-        centerTitle: true,
-        elevation: 0,
-        flexibleSpace: Container(
-          decoration: const BoxDecoration(
-            gradient: LinearGradient(
-              colors: [Color(0xFF6A11CB), Color(0xFF2575FC)],
-              begin: Alignment.topLeft,
-              end: Alignment.bottomRight,
-            ),
-          ),
-        ),
+  title: const Text(
+    "Sports Skills",
+    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+  ),
+  centerTitle: true,
+  elevation: 0,
+  flexibleSpace: Container(
+    decoration: const BoxDecoration(
+      gradient: LinearGradient(
+        colors: [Color.fromARGB(255, 17, 181, 203), Color(0xFF2575FC)], // Purple → Blue
+        begin: Alignment.topLeft,
+        end: Alignment.bottomRight,
       ),
+    ),
+  ),
+),
       body: Container(
         decoration: BoxDecoration(
     gradient: const LinearGradient(
