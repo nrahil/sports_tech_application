@@ -26,4 +26,5 @@ Material 3 Widgets
 Unsplash (free images)
 
 📷 Screenshots / Demo
-<video controls src="tutorial.mp4" title="Demo"></video>
+🎥 [Watch Demo Video](assets/tutorial.mp4)
+
