@@ -42,7 +42,7 @@ class SkillCard extends StatelessWidget {
                     end: Alignment.bottomCenter,
                     colors: [
                       Colors.transparent,
-                      Colors.black.withOpacity(0.6),
+                      Colors.black.withOpacity(0.2),
                     ],
                   ),
                 ),
