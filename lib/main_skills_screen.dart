@@ -23,7 +23,7 @@ class SkillsScreen extends StatelessWidget {
       appBar: AppBar(
   title: const Text(
     "Sports Skills",
-    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold,),
   ),
   centerTitle: true,
   elevation: 0,
